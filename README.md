@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArmouredWizard
 - 👀 I’m interested in writing Android Apps for TTRPG
-- 🌱 I’m currently learning Java for Android
+- 🌱 I’m currently learning Kotlin for Android
 - 📫 How to reach me: ArmouredWizard (@CrystalWizard99) on Twitter
 
 <!---
